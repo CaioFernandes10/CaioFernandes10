@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://instagram.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 
+<div style="display: inline_block">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=vespidhook&show_icons=true&theme=algolia&line_height=27%22%3E
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFernandes10&layout=compact&theme=algolia%22/%3E
+</div>
+
+
 
 
 ## Tecnologias que eu uso no meu dia
